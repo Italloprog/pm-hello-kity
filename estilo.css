@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+body{
+    background-color: rgb(37, 39, 40);
+    color: blanchedalmond;
+    font-size: 200%;
+    text-align: center;
+}
+.font-dancing{
+    font-family: 'Dancing Script';
+}
+.cabecalho{
+    text-align: center;
+    background-color: rgb(88, 99, 99);
+    color: pink;
+    padding: 0%;
+}
+
+h1{
+  font-size: 300%;  
+}
+
+img{
+    block-size: 30%;
+    
+}
